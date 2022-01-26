@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bricks>
+	<brick type="error" x="76" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="114" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="152" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="228" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="266" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="304" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="456" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="380" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="418" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="266" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="532" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="570" y="123" width="38" height="41" colour="Pink" />
+	<brick type="error" x="608" y="123" width="38" height="41" colour="Pink" />
+
+	<brick type="error" x="152" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="190" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="228" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="304" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="342" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="380" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="456" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="494" y="246" width="38" height="41" colour="Pink" />
+	<brick type="error" x="532" y="246" width="38" height="41" colour="Pink" />
+
+	<brick type="error" x="76" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="114" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="152" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="228" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="266" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="304" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="456" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="380" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="418" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="266" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="532" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="570" y="369" width="38" height="41" colour="Pink" />
+	<brick type="error" x="608" y="369" width="38" height="41" colour="Pink" />
+
+	<brick type="error" x="684" y="369" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="410" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="447" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="328" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="205" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="246" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="287" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="164" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="41" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="82" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="123" width="38" height="41" colour="PaleVioletRed" />
+
+	<brick type="error" x="0" y="369" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="410" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="447" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="328" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="205" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="246" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="164" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="41" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="82" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="123" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="287" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="0" y="488" width="38" height="41" colour="PaleVioletRed" />
+
+	<brick type="error" x="646" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="570" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="608" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="494" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="532" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="418" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="456" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="342" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="380" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="266" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="304" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="190" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="114" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="228" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="152" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="38" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="76" y="488" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="488" width="38" height="41" colour="PaleVioletRed" />
+
+	<brick type="error" x="0" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="38" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="76" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="114" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="152" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="190" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="228" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="266" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="304" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="342" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="380" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="418" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="456" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="494" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="532" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="570" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="608" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="646" y="0" width="38" height="41" colour="PaleVioletRed" />
+	<brick type="error" x="684" y="0" width="38" height="41" colour="PaleVioletRed" />
+</bricks>

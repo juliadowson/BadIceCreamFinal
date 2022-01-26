@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bricks>
+	<brick x="81" y="87" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="81" y="169" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="81" y="251" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="81" y="333" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="157" y="169" width="28" height="32" colour="MediumSlateBlue" />
+
+	<brick x="157" y="86" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="233" y="86" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="309" y="86" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="463" y="86" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="539" y="86" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="615" y="86" width="28" height="32" colour="MediumSlateBlue" />
+
+	<brick x="233" y="248" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="309" y="330" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="463" y="248" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="539" y="169" width="28" height="32" colour="MediumSlateBlue" />
+	<brick x="615" y="169" width="28" height="32" colour="MediumSlateBlue" />
+</bricks>
