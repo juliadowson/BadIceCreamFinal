@@ -202,6 +202,9 @@
     <None Include="Resources\pinkDown.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\beep.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Resources\gameMusic.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

@@ -53,8 +53,8 @@ namespace BadIceCreamFinal
         public GameScreen()
         {
             InitializeComponent();
-            //backMedia.Open(new Uri(Application.StartupPath + "/Resources/gameMusic.wav"));
-            //backMedia.MediaEnded += new EventHandler(backMedia_MediaEnded);
+            backMedia.Open(new Uri(Application.StartupPath + "/Resources/gameMusic.wav"));
+            backMedia.MediaEnded += new EventHandler(backMedia_MediaEnded);
 
             OnStart();
             ReadXml();
@@ -64,7 +64,7 @@ namespace BadIceCreamFinal
         public void OnStart()
         {
             //starts music
-           // backMedia.Play();
+            backMedia.Play();
 
             //set all button presses to false
             leftArrowDown = rightArrowDown = false;
@@ -81,10 +81,10 @@ namespace BadIceCreamFinal
             pright = p2Images[3];
 
             //sets player values
-            int player1X = 200;
-            int player1Y = 300;
-            int player2X = 400;
-            int player2Y = 400;
+            int player1X = 270;
+            int player1Y = 451;
+            int player2X = 420;
+            int player2Y = 451;
             int playerWidth = 35;
             int playerHeight = 40;
             int playerSpeed = 10;
@@ -159,6 +159,9 @@ namespace BadIceCreamFinal
 
                     if (p.PointCollision(points[i]))
                     {
+                        var blipSound = new System.Windows.Media.MediaPlayer();
+                        blipSound.Open(new Uri(Application.StartupPath + "/Resources/beep.wav"));
+                        blipSound.Play();
                         //removes points after collision 
                         points.Remove(points[i]);
 
@@ -449,8 +452,8 @@ namespace BadIceCreamFinal
 
         private void backMedia_MediaEnded(object sender, EventArgs e)
         {
-            //backMedia.Stop();
-           // backMedia.Play();
+            backMedia.Stop();
+            backMedia.Play();
         }
     }
 }
